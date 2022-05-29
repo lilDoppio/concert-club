@@ -1,3 +1,13 @@
+# Сайт использует (https://jsonplaceholder.typicode.com/), получает и отправляет запросы.
+
+##для запуска приложения склонируйте репозиторий, в папке проекта в консоле наберите <code>npm install</code>, затем <code>npm start</code>.
+
+Реализованна возможность получить и просмотреть список пользователей, детальная страница каждого отдельного пользователя, список постов и коментариев к ним.
+
+![Иллюстрация к проекту](https://github.com/lilDoppio/pics/blob/main/concer_club_fw_1.png)
+![Иллюстрация к проекту](https://github.com/lilDoppio/pics/blob/main/concer_club_fw_2.png)
+![Иллюстрация к проекту](https://github.com/lilDoppio/pics/blob/main/concer_club_fw_3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
