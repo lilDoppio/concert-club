@@ -1,0 +1,19 @@
+.post-block {
+  overflow: auto;
+  border-right: 1px solid #000;
+}
+.post-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+.post-body {
+  font-size: 16px;
+  color: #fff;
+}
+.post-body::first-line {
+  color: #000;
+}
+.post-button {
+  display: flex;
+  align-items: center;
+}

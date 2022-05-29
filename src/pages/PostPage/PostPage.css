@@ -1,0 +1,27 @@
+.post-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 140px);
+  margin: 35px 0;
+  box-sizing: border-box;
+  overflow: auto;
+}
+.current-post {
+  width: 780px;
+  min-height: 200px;
+  max-height: 400px;
+  padding: 15px 35px;
+  border: 1px solid #000;
+}
+.current-post-title {
+  font-size: 34px;
+}
+.current-post-body {
+  font-size: 28px;
+}
+.comments-section {
+  width: 850px;
+  height: calc(100vh - 400px);
+}

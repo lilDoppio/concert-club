@@ -1,0 +1,28 @@
+.profile__all-posts {
+  grid-area: 5 / 1 / 6 / 8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 60px;
+  border-top: 1px solid #000;
+  overflow: auto;
+  overflow-x: auto;
+}
+.profile__all-posts-title {
+  margin-right: 35px;
+  font-weight: 700;
+  font-size: 24px;
+}
+.profile__all-posts-list {
+  width: 300%;
+  height: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.profile__all-posts-item {
+  display: flex;
+  min-width: 500px;
+  min-height: 100px;
+  padding: 15px 35px;
+  margin-right: 30px;
+}
